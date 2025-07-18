@@ -24,12 +24,16 @@ From scripting to serverless, from bare metal to containers:
 
 ---
 
-### 🧠 Bonus skills? Absolutely.
+## 🧠 Bonus Skills? Absolutely.
 
-- 🔥 Mastering **DDoS mitigation** with custom firewall rules, FreeBSD blackholing, PF & IPFW
-- 🔄 **Zero-downtime migrations** – even under pressure
-- 🧰 Writing tools that make infrastructure work *for* you, not against you
-- ☁️ Turning messy setups into clean, versioned, automated deployments
+- 🔥 Mastering **DDoS mitigation** with custom firewall rules, FreeBSD blackholing, PF & IPFW  
+- 🌐 Deep experience with **proxies** and **reverse proxies**, including **Cloudflare**, self-hosted **NGINX** stacks, and hardened edge networks  
+- ⚖️ Setting up **NGINX-based load balancing** that doesn’t just distribute traffic – it filters, protects, and scales  
+- 🧩 Building custom reverse proxies that block L7 attacks before they even reach your app  
+- 🔐 **OpenVPN?** Automated. Deployed. **Ready in under 10 seconds.**  
+- 🔄 **Zero-downtime migrations** – even under pressure  
+- 🧰 Writing tools that make infrastructure work *for* you, not against you  
+- ☁️ Turning messy setups into clean, versioned, automated deployments  
 
-> **I don't just deploy – I design, automate, and dominate infrastructure.**
+> **I don’t just deploy. I dissect, defend, and deliver infrastructure that bends — but never breaks.**
 
