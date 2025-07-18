@@ -29,23 +29,19 @@
 
 ---
 
-<h2 align="center">🧠 〣 About Me</h2>
-
 <p align="center">
-I’m all about <strong>optimizing</strong>, <strong>automating</strong>, and <strong>scaling</strong> — whether it’s on-prem, in the cloud, or anywhere in between.
+
+## 🧠 〣 About Me
+
+I’m passionate about optimizing, automating, and scaling IT systems — whether on-premises, in the cloud, or in hybrid environments.
+
+Systems management is my daily focus, but what truly drives me is the craft of coding, often deep into the night.
+
+🎮 From game development and web applications to fully automated cloud workflows  
+🧠 Infrastructure as Code, smart automation, and clean, maintainable code are my tools of choice  
+💡 Creating efficient, sustainable, and scalable solutions is my standard  
+
 </p>
-
-<p align="center">
-Systems management? Sure. But what really fires me up is <strong>coding</strong>:
-</p>
-
-<ul>
-  <li>🎮 From <strong>game dev</strong> to <strong>web apps</strong> to fully automated <strong>cloud pipelines</strong></li>
-  <li>🧠 Infrastructure as Code, smart automation, and clean code — that’s where I thrive</li>
-  <li>💡 Sleek, efficient, and built to last – that’s my approach to solutions</li>
-</ul>
-
----
 
 <h2 align="center">🧰 〣 Bonus Skills</h2>
 
