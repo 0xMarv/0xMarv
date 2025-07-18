@@ -9,3 +9,15 @@
 <p align="center">
   <strong><code>I don't deploy – I dominate infrastructure.</code></strong>
 </p>
+
+
+## 👋 About Me
+
+I'm currently training to become a **System Engineer**, but I already bring a strong background in **cloud technologies**, **infrastructure automation**, and **system architecture**.
+
+I’m passionate about everything that can be **optimized, automated, and scaled** – whether it's running on-premises, in the cloud, or in hybrid environments.
+
+Beyond managing systems, I genuinely enjoy **coding**:  
+Whether it's for **games**, **web applications**, or building fully automated **cloud environments**, I love creating efficient, elegant, and reliable solutions.
+
+> **Infrastructure as Code, smart scripting, and clean development – that's my thing.**
