@@ -22,18 +22,18 @@ Whether it's for **games**, **web applications**, or fully automated **cloud dep
 From scripting to serverless, from bare metal to containers:  
 > **Infrastructure as Code, smart scripting, and clean development – that’s my thing.**
 
----
-
 ## 🧠 Bonus Skills? Absolutely.
 
 - 🔥 Mastering **DDoS mitigation** with custom firewall rules, FreeBSD blackholing, PF & IPFW  
-- 🌐 Deep experience with **proxies** and **reverse proxies**, including **Cloudflare**, self-hosted **NGINX** stacks, and hardened edge networks  
-- ⚖️ Setting up **NGINX-based load balancing** that doesn’t just distribute traffic – it filters, protects, and scales  
-- 🧩 Building custom reverse proxies that block L7 attacks before they even reach your app  
+- 🌐 Deep experience with **proxies** and **reverse proxies** – including **Cloudflare**, **NGINX load balancing**, and hardened **edge security concepts**  
+- ⚖️ Configuring **NGINX** to do more than just route – from traffic shaping to active Layer 7 defense  
+- 🧩 Building reverse proxy setups that filter L7 attacks before they ever touch the backend  
+- 🧠 Obsessed with **Proxmox** – from automated VM deployments to full-scale virtual lab infrastructures  
 - 🔐 **OpenVPN?** Automated. Deployed. **Ready in under 10 seconds.**  
 - 🔄 **Zero-downtime migrations** – even under pressure  
 - 🧰 Writing tools that make infrastructure work *for* you, not against you  
 - ☁️ Turning messy setups into clean, versioned, automated deployments  
 
 > **I don’t just deploy. I dissect, defend, and deliver infrastructure that bends — but never breaks.**
+
 
