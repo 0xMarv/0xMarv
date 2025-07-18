@@ -31,6 +31,8 @@
 
 <p align="center">
 
+<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="40" height="40" />
+
 ## 🧠 〣 About Me
 
 I’m passionate about optimizing, automating, and scaling IT systems — whether on-premises, in the cloud, or in hybrid environments.
@@ -42,6 +44,7 @@ Systems management is my daily focus, but what truly drives me is the craft of c
 💡 Creating efficient, sustainable, and scalable solutions is my standard  
 
 </p>
+
 
 <h2 align="center">🧰 〣 Bonus Skills</h2>
 
