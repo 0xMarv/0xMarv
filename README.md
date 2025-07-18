@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontAlign=70&fontAlignY=40&color=gradient&text=Infrastructure%20Domination&fontSize=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontAlign=70&fontAlignY=40&color=gradient&text=I think in configs. I act in code. – 0xMarv&fontSize=40" alt="Header" />
 </p>
 
 <p align="center">
