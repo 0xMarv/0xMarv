@@ -23,7 +23,18 @@
   <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="40" />
   <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" height="40" />
   <img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Proxmox_logo.svg" height="40" />
+
+<p align="center">
+  <img src="https://img.icons8.com/color/512/proxmox.png" height="40" style="animation: pulse 2s infinite;" />
+</p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
 
 </p>
 ## 👋 About Me
