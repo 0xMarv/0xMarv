@@ -25,7 +25,7 @@
   <img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" height="40" />
 
 <p align="center">
-  <img src="https://thenextrs.com/wp-content/uploads/2023/05/Proxmox-300x300.png" height="40" style="animation: pulse 2s infinite;" />
+  <img src="[https://thenextrs.com/wp-content/uploads/2023/05/Proxmox-300x300.png](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/proxmox-uw6yaiftdobbrt3xlvpgi.png/proxmox-1dmlg00f1ckqo088wlaoxm.png?_a=DATAdtXyZAA0)" height="40" style="animation: pulse 2s infinite;" />
 </p>
 
 <style>
