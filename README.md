@@ -31,7 +31,9 @@
 
 <p align="center">
 
-<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="160" height="40" />
+<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="40" height="40" />
+
+## 🧠 〣 About Me
 
 I’m on a mission to **optimize**, **automate**, and **scale** cutting-edge IT systems — whether on-prem, cloud, or hybrid — with precision and passion.
 
@@ -42,6 +44,8 @@ Systems management is my playground, but my true spark ignites when I’m coding
 💡 Relentlessly building efficient, resilient, and scalable systems that don’t just work — they thrive  
 
 Ready to create the future? Let’s build something extraordinary together.
+
+> “I’m always ready to learn more and push the limits further.”
 
 </p>
 
