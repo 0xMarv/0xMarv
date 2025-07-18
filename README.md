@@ -31,9 +31,7 @@
 
 <p align="center">
 
-<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="40" height="40" />
-
-## 🧠 〣 About Me
+<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="160" height="40" />
 
 I’m passionate about optimizing, automating, and scaling IT systems — whether on-premises, in the cloud, or in hybrid environments.
 
