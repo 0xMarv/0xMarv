@@ -24,17 +24,9 @@
   <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" height="40" />
   <img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" height="40" />
 
-<p align="center">
-  <img src="[https://thenextrs.com/wp-content/uploads/2023/05/Proxmox-300x300.png](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/proxmox-uw6yaiftdobbrt3xlvpgi.png/proxmox-1dmlg00f1ckqo088wlaoxm.png?_a=DATAdtXyZAA0)" height="40" style="animation: pulse 2s infinite;" />
+  <p align="center">
+  <img src="https://mycyberuniverse.com/images/logos/proxmox.png" alt="Proxmox" width="48" height="48" style="animation: pulse 2s infinite alternate;">
 </p>
-
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
 
 </p>
 ## 👋 About Me
