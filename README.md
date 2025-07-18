@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontAlign=70&fontAlignY=40&color=gradient&text=I%20think%20in%20configs.%20I%20act%20in%20code.%20%E2%80%93%20&fontSize=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&fontAlign=70&fontAlignY=40&color=gradient&text=Configs.%20Code.%20Control.&fontSize=38" alt="Header" />
 </p>
 
 <p align="center">
