@@ -29,7 +29,7 @@
 </p>
 
 </p>
-<img src="https://gist.github.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%2520Me.gif" height="40" />
+<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif" height="40" />
 
 
 I’m all about optimizing, automating, and scaling — whether it’s on-prem, in the cloud, or anywhere in between.
