@@ -56,3 +56,9 @@ From scripting to serverless, from bare metal to containers:
 > **I don’t just deploy. I dissect, defend, and deliver infrastructure that bends — but never breaks.**
 
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ca9300f65d5168559c78db1e1978a0a95d815d6777f5483678b19df36fe1ce26/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31353026637573746f6d436f6c6f724c6973743d302c322c332c31352673656374696f6e3d666f6f74657226666f6e74416c69676e3d3026666f6e74416c69676e593d3026726576657273616c3d66616c7365" alt="Header" />
+</p>
+
+<p align="center">
+  <img 
