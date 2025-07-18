@@ -10,14 +10,26 @@
   <strong><code>I don't deploy – I dominate infrastructure.</code></strong>
 </p>
 
-
 ## 👋 About Me
 
-I'm currently training to become a **System Engineer**, but I already bring a strong background in **cloud technologies**, **infrastructure automation**, and **system architecture**.
+I'm currently training to become a **System Engineer**, but I already bring a solid background in **cloud technologies**, **infrastructure automation**, and **system architecture**.
 
-I’m passionate about everything that can be **optimized, automated, and scaled** – whether it's running on-premises, in the cloud, or in hybrid environments.
+I'm passionate about anything that can be **optimized**, **automated**, and **scaled** – whether it's running on-premises, in the cloud, or across hybrid environments.
 
 Beyond managing systems, I genuinely enjoy **coding**:  
-Whether it's for **games**, **web applications**, or building fully automated **cloud environments**, I love creating efficient, elegant, and reliable solutions.
+Whether it's for **games**, **web applications**, or fully automated **cloud deployments**, I love building solutions that are not only efficient and elegant – but built to last.
 
-> **Infrastructure as Code, smart scripting, and clean development – that's my thing.**
+From scripting to serverless, from bare metal to containers:  
+> **Infrastructure as Code, smart scripting, and clean development – that’s my thing.**
+
+---
+
+### 🧠 Bonus skills? Absolutely.
+
+- 🔥 Mastering **DDoS mitigation** with custom firewall rules, FreeBSD blackholing, PF & IPFW
+- 🔄 **Zero-downtime migrations** – even under pressure
+- 🧰 Writing tools that make infrastructure work *for* you, not against you
+- ☁️ Turning messy setups into clean, versioned, automated deployments
+
+> **I don't just deploy – I design, automate, and dominate infrastructure.**
+
