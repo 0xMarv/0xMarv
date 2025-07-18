@@ -33,15 +33,18 @@
 
 <img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif?raw=true" alt="About Me" width="160" height="40" />
 
-I’m passionate about optimizing, automating, and scaling IT systems — whether on-premises, in the cloud, or in hybrid environments.
+I’m on a mission to **optimize**, **automate**, and **scale** cutting-edge IT systems — whether on-prem, cloud, or hybrid — with precision and passion.
 
-Systems management is my daily focus, but what truly drives me is the craft of coding, often deep into the night.
+Systems management is my playground, but my true spark ignites when I’m coding—often deep into the night—turning complex challenges into clean, powerful solutions.
 
-🎮 From game development and web applications to fully automated cloud workflows  
-🧠 Infrastructure as Code, smart automation, and clean, maintainable code are my tools of choice  
-💡 Creating efficient, sustainable, and scalable solutions is my standard  
+🎮 From crafting immersive games and sleek web apps to architecting fully automated, cloud-native workflows  
+☁️ Bringing deep expertise in cloud technologies, Infrastructure as Code, and next-level automation tools  
+💡 Relentlessly building efficient, resilient, and scalable systems that don’t just work — they thrive  
+
+Ready to create the future? Let’s build something extraordinary together.
 
 </p>
+
 
 
 <h2 align="center">🧰 〣 Bonus Skills</h2>
