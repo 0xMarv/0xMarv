@@ -1,64 +1,67 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ef5dfeb2bb4a9264e5ac852a0469efd04d1260c93e3cd27c168979ce1eeee05c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d313530262626637573746f6d436f6c6f724c6973743d302c322c332c31352673656374696f6e3d68656164657226666f6e74416c69676e3d3026666f6e74416c69676e593d3026726576657273616c3d66616c7365" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&fontAlign=70&fontAlignY=40&color=gradient&text=Infrastructure%20Domination&fontSize=40" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/c4/7d/a4c47d0fd9bfa16b96f1c6c285d50331.gif" alt="infrastructure domination" width="200" />
+  <img src="https://i.pinimg.com/originals/a4/c4/7d/a4c47d0fd9bfa16b96f1c6c285d50331.gif" alt="I think in configs. I act in code. – 0xMarv " width="200" />
 </p>
 
 <p align="center">
   <strong><code>I don't deploy – I dominate infrastructure.</code></strong>
 </p>
 
+---
 
-<h2 align="center">💻 〣 My favorite tools and technologies</h2>
+<h2 align="center">💻 〣 My Favorite Tools & Technologies</h2>
 
 <p align="center">
   <img src="https://github.com/CuzImStupi4/CuzImStupi4/raw/main/assets/lua.svg" height="40" />
-  <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="40" />
-  <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" height="40" />
-  <img src="https://camo.githubusercontent.com/159aae90050b6b888b22f5ec6febecf9932083e71837b55fb39fb7ed490056af/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" height="40" />
-
-  <p align="center">
-  <img src="https://mycyberuniverse.com/images/logos/proxmox.png" alt="Proxmox" width="48" height="48" style="animation: pulse 2s infinite alternate;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" height="40" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="40" />
+  <img src="https://mycyberuniverse.com/images/logos/proxmox.png" alt="Proxmox" width="48" height="48" />
 </p>
 
-</p>
-<img src="https://github.com/0xMarv/0xMarv/blob/main/about.gif" height="40" />
+---
 
-
-I’m all about optimizing, automating, and scaling — whether it’s on-prem, in the cloud, or anywhere in between.
-
-Systems management? Sure. But what really fires me up is **coding**:  
-From **game dev** to **web apps** to fully automated **cloud pipelines**, I build solutions that are sleek, efficient, and built to last.
-
-Whether scripting or serverless, bare metal or containers:  
-> **Infrastructure as Code, smart automation, and clean code — that’s where I thrive.**
-
-
-## 🧠 Bonus Skills? Absolutely.
-
-- 🔥 Mastering **DDoS mitigation** with custom firewall rules, FreeBSD blackholing, PF & IPFW  
-- 🌐 Deep experience with **proxies** and **reverse proxies** – including **Cloudflare**, **NGINX load balancing**, and hardened **edge security concepts**  
-- ⚖️ Configuring **NGINX** to do more than just route – from traffic shaping to active Layer 7 defense  
-- 🧩 Building reverse proxy setups that filter L7 attacks before they ever touch the backend  
-- 🧠 Obsessed with **Proxmox** – from automated VM deployments to full-scale virtual lab infrastructures  
-- 🔐 **OpenVPN?** Automated. Deployed. **Ready in under 10 seconds.**  
-- 🔄 **Zero-downtime migrations** – even under pressure  
-- 🧰 Writing tools that make infrastructure work *for* you, not against you  
-- ☁️ Turning messy setups into clean, versioned, automated deployments  
-
-> **I don’t just deploy. I dissect, defend, and deliver infrastructure that bends — but never breaks.**
-
+<h2 align="center">🧠 〣 About Me</h2>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ca9300f65d5168559c78db1e1978a0a95d815d6777f5483678b19df36fe1ce26/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31353026637573746f6d436f6c6f724c6973743d302c322c332c31352673656374696f6e3d666f6f74657226666f6e74416c69676e3d3026666f6e74416c69676e593d3026726576657273616c3d66616c7365" alt="Header" />
+I’m all about <strong>optimizing</strong>, <strong>automating</strong>, and <strong>scaling</strong> — whether it’s on-prem, in the cloud, or anywhere in between.
 </p>
 
 <p align="center">
-  <img 
+Systems management? Sure. But what really fires me up is <strong>coding</strong>:
+</p>
+
+<ul>
+  <li>🎮 From <strong>game dev</strong> to <strong>web apps</strong> to fully automated <strong>cloud pipelines</strong></li>
+  <li>🧠 Infrastructure as Code, smart automation, and clean code — that’s where I thrive</li>
+  <li>💡 Sleek, efficient, and built to last – that’s my approach to solutions</li>
+</ul>
+
+---
+
+<h2 align="center">🧰 〣 Bonus Skills</h2>
+
+<ul>
+  <li>🔥 DDoS mitigation with custom firewall rules, FreeBSD blackholing, PF & IPFW</li>
+  <li>🌐 Proxying mastery – Cloudflare, NGINX, L7 filtering, reverse proxies</li>
+  <li>⚙️ Traffic shaping, edge security, and advanced NGINX configurations</li>
+  <li>🤖 Obsessed with Proxmox – from auto-deployments to full-scale lab infrastructures</li>
+  <li>🔐 Instant OpenVPN setups – ready in 10 seconds</li>
+  <li>📦 Containers, bare metal, or serverless – doesn’t matter, I make it hum</li>
+  <li>🔄 Zero-downtime migrations, versioned deployments, rollback strategies</li>
+  <li>🧩 Turning chaos into clean, maintainable, and automated deployments</li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" alt="Footer" />
+</p>
