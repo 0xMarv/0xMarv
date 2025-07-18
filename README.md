@@ -31,8 +31,6 @@
 </p>
 ## 👋 About Me
 
-I'm currently training to become a **System Engineer**, but I already bring a solid background in **cloud technologies**, **infrastructure automation**, and **system architecture**.
-
 I'm passionate about anything that can be **optimized**, **automated**, and **scaled** – whether it's running on-premises, in the cloud, or across hybrid environments.
 
 Beyond managing systems, I genuinely enjoy **coding**:  
