@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a972401cc06ca22d7b95be5dc4306ec80a39f106086d017546b5c076e9458ba4/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3737343836383638313538363131343538302e6769663f763d31" alt="infrastructure domination" width="200" />
+  <img src="https://i.pinimg.com/originals/a4/c4/7d/a4c47d0fd9bfa16b96f1c6c285d50331.gif" alt="infrastructure domination" width="200" />
 </p>
 
 <p align="center">
