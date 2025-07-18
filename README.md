@@ -29,15 +29,17 @@
 </p>
 
 </p>
-## 👋 About Me
+<img src="https://gist.github.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%2520Me.gif" height="40" />
 
-I'm passionate about anything that can be **optimized**, **automated**, and **scaled** – whether it's running on-premises, in the cloud, or across hybrid environments.
 
-Beyond managing systems, I genuinely enjoy **coding**:  
-Whether it's for **games**, **web applications**, or fully automated **cloud deployments**, I love building solutions that are not only efficient and elegant – but built to last.
+I’m all about optimizing, automating, and scaling — whether it’s on-prem, in the cloud, or anywhere in between.
 
-From scripting to serverless, from bare metal to containers:  
-> **Infrastructure as Code, smart scripting, and clean development – that’s my thing.**
+Systems management? Sure. But what really fires me up is **coding**:  
+From **game dev** to **web apps** to fully automated **cloud pipelines**, I build solutions that are sleek, efficient, and built to last.
+
+Whether scripting or serverless, bare metal or containers:  
+> **Infrastructure as Code, smart automation, and clean code — that’s where I thrive.**
+
 
 ## 🧠 Bonus Skills? Absolutely.
 
